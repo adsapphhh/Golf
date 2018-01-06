@@ -1,6 +1,6 @@
 # Golf
 In the game, you are participating in an interesting golf match. You need to control the intensity and angle of the launch and pass the golf balls into the hole. The fewer the rods, the higher the score.
-![Alt text](https://github.com/appdev-support/Alien-Hunter/blob/master/0x0ss.jpg)
+![Alt text](https://github.com/appdev-support/Golf/blob/master/0x0ss%20(1).jpg)
 Framework
 
 Center center server
